@@ -1,0 +1,4 @@
+{
+    "command": "npm install",
+    "working_directory": "/home/kavia/workspace/code-generation/employee-attendance-tracker-6f4b08d5/attendance_frontend"
+}
